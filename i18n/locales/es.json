@@ -1,0 +1,227 @@
+{
+  "skipToContent": "Saltar al contenido principal",
+  "emergency": "Emergencia",
+  "switchLanguage": "Cambiar idioma",
+  "chooseLanguage": "Elegir idioma",
+  "switchToLight": "Cambiar a modo claro",
+  "switchToDark": "Cambiar a modo oscuro",
+  "closeMenu": "Cerrar menú",
+  "openMenu": "Abrir menú",
+
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "blogs": "Blog",
+    "faqs": "Preguntas Frecuentes",
+    "contact": "Contacto"
+  },
+
+  "hero": {
+    "title": "Atención Médica Compasiva para Cada Familia",
+    "subtitle": "Atención médica de clase mundial brindada con empatía, experiencia e innovación. Su salud es nuestra misión.",
+    "cta": "Reservar Cita",
+    "ctaSecondary": "Nuestros Servicios"
+  },
+
+  "stats": {
+    "patients": "Pacientes Satisfechos",
+    "doctors": "Médicos Expertos",
+    "experience": "Años de Experiencia",
+    "awards": "Premios Médicos"
+  },
+
+  "services": {
+    "title": "Nuestros Servicios Médicos",
+    "subtitle": "Servicios integrales de atención médica brindados por profesionales experimentados utilizando tecnología de última generación.",
+    "cardiology": "Cardiología",
+    "cardiologyDesc": "Atención cardíaca avanzada que incluye diagnóstico, cardiología intervencionista y rehabilitación cardíaca.",
+    "neurology": "Neurología",
+    "neurologyDesc": "Diagnóstico y tratamiento experto de trastornos neurológicos como accidentes cerebrovasculares, epilepsia y migrañas.",
+    "orthopedics": "Ortopedia",
+    "orthopedicsDesc": "Atención integral de huesos y articulaciones, desde lesiones deportivas hasta cirugía de reemplazo articular.",
+    "pediatrics": "Pediatría",
+    "pediatricsDesc": "Atención compasiva para bebés, niños y adolescentes, incluyendo vacunas y controles de bienestar.",
+    "ophthalmology": "Oftalmología",
+    "ophthalmologyDesc": "Atención ocular completa, desde exámenes de rutina hasta procedimientos quirúrgicos avanzados.",
+    "dental": "Cuidado Dental",
+    "dentalDesc": "Servicios dentales completos que incluyen atención preventiva, odontología estética y cirugía oral."
+  },
+
+  "doctors": {
+    "title": "Conozca a Nuestros Especialistas",
+    "subtitle": "Nuestro equipo de médicos certificados aporta décadas de experiencia combinada en diversas disciplinas médicas."
+  },
+
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Pacientes",
+    "subtitle": "Historias reales de pacientes reales que han experimentado nuestra atención de primera mano."
+  },
+
+  "cta": {
+    "title": "¿Listo para Cuidar su Salud?",
+    "subtitle": "Programe una cita hoy y experimente la diferencia de MediCare Plus.",
+    "button": "Contáctenos Ahora"
+  },
+
+  "about": {
+    "title": "Sobre MediCare Plus",
+    "story": "Nuestra Historia",
+    "storyContent": "Fundado en 1998, MediCare Plus comenzó como una pequeña clínica comunitaria con la visión de hacer accesible la atención médica de calidad para todos. Durante las últimas dos décadas, nos hemos convertido en una institución médica integral que atiende a miles de pacientes anualmente, sin perder de vista nuestros principios fundacionales: compasión, excelencia e innovación.",
+    "storyContent2": "Hoy, operamos una instalación de última generación equipada con la tecnología médica más reciente, y nuestro equipo de más de 100 especialistas certificados cubre más de 20 disciplinas médicas. Seguimos comprometidos a brindar atención centrada en el paciente que trate no solo la enfermedad, sino a la persona en su totalidad.",
+    "mission": "Nuestra Misión",
+    "missionStatement": "Proporcionar servicios de atención médica accesibles y de alta calidad con compasión e integridad, capacitando a individuos y comunidades para alcanzar una salud y bienestar óptimos.",
+    "vision": "Nuestra Visión",
+    "visionStatement": "Ser el proveedor de atención médica más confiable, reconocido por la excelencia clínica, la seguridad del paciente y los enfoques innovadores de la medicina.",
+    "values": "Nuestros Valores",
+    "valuesList": [
+      { "title": "Compasión", "desc": "Tratamos a cada paciente con empatía, dignidad y respeto." },
+      { "title": "Excelencia", "desc": "Buscamos los más altos estándares en atención clínica y resultados para los pacientes." },
+      { "title": "Innovación", "desc": "Adoptamos tecnología de vanguardia y prácticas basadas en evidencia." },
+      { "title": "Integridad", "desc": "Operamos con transparencia, honestidad y responsabilidad ética." }
+    ],
+    "accreditations": "Acreditaciones y Certificaciones",
+    "badges": [
+      "Acreditado por la Joint Commission",
+      "Certificado ISO 9001:2015",
+      "Acreditado por AAAHC",
+      "Reconocimiento Magnet para la Excelencia en Enfermería"
+    ]
+  },
+
+  "blogs": {
+    "title": "Blog de Salud y Bienestar",
+    "subtitle": "Manténgase informado con los últimos consejos de salud, conocimientos médicos y asesoramiento de bienestar de nuestros expertos.",
+    "readMore": "Leer Más",
+    "by": "Por",
+    "published": "Publicado",
+    "categories": {
+      "nutrition": "Nutrición",
+      "cardiology": "Salud Cardíaca",
+      "mentalHealth": "Salud Mental",
+      "prevention": "Prevención",
+      "pediatrics": "Salud Infantil"
+    }
+  },
+
+  "contact": {
+    "title": "Póngase en Contacto",
+    "subtitle": "Estamos aquí para ayudar. Contáctenos para citas, consultas o asistencia de emergencia.",
+    "formTitle": "Envíenos un Mensaje",
+    "name": "Nombre Completo",
+    "namePlaceholder": "Ingrese su nombre completo",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "Ingrese su correo electrónico",
+    "phone": "Número de Teléfono",
+    "phonePlaceholder": "Ingrese su número de teléfono",
+    "subject": "Asunto",
+    "subjectPlaceholder": "¿Sobre qué es esto?",
+    "message": "Su Mensaje",
+    "messagePlaceholder": "¿Cómo podemos ayudarle?",
+    "submit": "Enviar Mensaje",
+    "success": "¡Gracias! Su mensaje ha sido enviado. Nos pondremos en contacto pronto.",
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Ingrese un correo electrónico válido",
+    "emergencyTitle": "Emergencia",
+    "emergencyNumber": "Emergencia: +1 (555) 911-0000",
+    "emergencyDesc": "Si está experimentando una emergencia médica, llame al 911 o visite la sala de emergencias más cercana de inmediato.",
+    "location": "Nuestra Ubicación",
+    "address": "123 Health Avenue, Medical District, NY 10001",
+    "hours": "Horario de Atención",
+    "weekdays": "Lunes - Viernes: 8:00 AM - 8:00 PM",
+    "saturday": "Sábado: 9:00 AM - 5:00 PM",
+    "sunday": "Domingo: Cerrado",
+    "mapTitle": "Encuéntrenos en el Mapa"
+  },
+
+  "faqs": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Encuentre respuestas a preguntas comunes sobre nuestros servicios, seguros, citas y más.",
+    "categories": {
+      "insurance": "Seguros y Facturación",
+      "appointments": "Citas",
+      "visiting": "Horarios y Políticas de Visita",
+      "general": "General"
+    },
+    "items": [
+      {
+        "q": "¿Qué planes de seguro aceptan?",
+        "a": "Aceptamos la mayoría de los planes de seguro principales, incluidos Medicare, Medicaid, Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare y muchos más. Comuníquese con nuestro departamento de facturación para verificar la cobertura de su plan específico.",
+        "cat": "insurance"
+      },
+      {
+        "q": "¿Ofrecen tarifas de escala móvil o asistencia financiera?",
+        "a": "Sí, ofrecemos programas de asistencia financiera para pacientes elegibles según los ingresos y el tamaño de la familia. Nuestros asesores financieros pueden ayudarlo a determinar la elegibilidad y guiarlo a través del proceso de solicitud.",
+        "cat": "insurance"
+      },
+      {
+        "q": "¿Cómo programo una cita?",
+        "a": "Puede programar una cita llamando a nuestra línea principal al +1 (555) 123-4567, utilizando nuestro portal de pacientes en línea o visitando nuestra clínica en persona. Recomendamos programar con anticipación para visitas no urgentes.",
+        "cat": "appointments"
+      },
+      {
+        "q": "¿Qué debo traer a mi cita?",
+        "a": "Traiga una identificación válida con foto, su tarjeta de seguro, una lista de medicamentos actuales, registros médicos relevantes y cualquier formulario de referencia requerido por su plan de seguro.",
+        "cat": "appointments"
+      },
+      {
+        "q": "¿Ofrecen citas de telesalud?",
+        "a": "Sí, ofrecemos citas de telesalud para muchos tipos de consultas. Nuestra plataforma de video segura le permite conectarse con su proveedor de atención médica desde la comodidad de su hogar.",
+        "cat": "appointments"
+      },
+      {
+        "q": "¿Cuáles son los horarios de visita?",
+        "a": "El horario general de visitas es de 10:00 AM a 8:00 PM todos los días. Las unidades de UCI y especialidades pueden tener horarios restringidos. Consulte con la estación de enfermería las políticas específicas de la unidad.",
+        "cat": "visiting"
+      },
+      {
+        "q": "¿Puedo acompañar a un paciente a su cita?",
+        "a": "Sí, los pacientes pueden estar acompañados por un familiar o cuidador durante las citas. Para visitas de hospitalización, permitimos hasta dos visitantes a la vez. Es posible que se requieran mascarillas en ciertas áreas.",
+        "cat": "visiting"
+      },
+      {
+        "q": "¿Qué medidas de seguridad COVID-19 tienen implementadas?",
+        "a": "Seguimos todas las pautas de los CDC y del departamento de salud local, incluidos protocolos de limpieza mejorados, uso obligatorio de mascarillas en áreas clínicas, distanciamiento social en salas de espera y evaluación en las entradas.",
+        "cat": "visiting"
+      },
+      {
+        "q": "¿Cómo solicito mis registros médicos?",
+        "a": "Puede solicitar sus registros médicos a través de nuestro portal de pacientes, completando un formulario de divulgación de registros médicos o comunicándose con nuestro departamento de Gestión de Información de Salud. Permita de 5 a 7 días hábiles para el procesamiento.",
+        "cat": "general"
+      },
+      {
+        "q": "¿Hay estacionamiento disponible en sus instalaciones?",
+        "a": "Sí, ofrecemos estacionamiento gratuito para todos los pacientes y visitantes en nuestro estacionamiento principal adyacente al hospital. También hay servicio de valet parking disponible en la entrada principal por una tarifa nominal. Los espacios de estacionamiento accesibles se encuentran cerca de todas las entradas.",
+        "cat": "general"
+      }
+    ]
+  },
+
+  "notFound": {
+    "title": "Página No Encontrada",
+    "message": "No pudimos encontrar la página que busca. Es posible que haya sido movida o ya no exista.",
+    "cta": "Volver al Inicio"
+  },
+
+  "page": {
+    "privacy": {
+      "title": "Política de Privacidad",
+      "content": "Esta política de privacidad describe cómo MediCare Plus recopila, utiliza y protege su información personal y de salud en cumplimiento con las regulaciones HIPAA y las leyes de protección de datos aplicables. Estamos comprometidos a salvaguardar la privacidad de nuestros pacientes y visitantes del sitio web."
+    },
+    "terms": {
+      "title": "Términos de Servicio",
+      "content": "Al utilizar el sitio web y los servicios de MediCare Plus, usted acepta estos términos de servicio. Nuestro sitio web es solo para fines informativos y no constituye asesoramiento médico. Siempre consulte con un profesional de la salud calificado para asuntos médicos."
+    }
+  },
+
+  "footer": {
+    "tagline": "Brindando atención médica compasiva de clase mundial con tecnología de vanguardia y un enfoque centrado en el paciente.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "emergencyNumber": "Emergencia",
+    "openHours": "Lun-Vie: 8AM-8PM, Sáb: 9AM-5PM",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}

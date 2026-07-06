@@ -1,0 +1,227 @@
+{
+  "skipToContent": "Skip to main content",
+  "emergency": "Emergency",
+  "switchLanguage": "Switch language",
+  "chooseLanguage": "Choose language",
+  "switchToLight": "Switch to light mode",
+  "switchToDark": "Switch to dark mode",
+  "closeMenu": "Close menu",
+  "openMenu": "Open menu",
+
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "blogs": "Blog",
+    "faqs": "FAQs",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "title": "Compassionate Healthcare for Every Family",
+    "subtitle": "World-class medical care delivered with empathy, expertise, and innovation. Your health is our mission.",
+    "cta": "Book Appointment",
+    "ctaSecondary": "Our Services"
+  },
+
+  "stats": {
+    "patients": "Happy Patients",
+    "doctors": "Expert Doctors",
+    "experience": "Years Experience",
+    "awards": "Medical Awards"
+  },
+
+  "services": {
+    "title": "Our Medical Services",
+    "subtitle": "Comprehensive healthcare services delivered by experienced professionals using state-of-the-art technology.",
+    "cardiology": "Cardiology",
+    "cardiologyDesc": "Advanced heart care including diagnostics, interventional cardiology, and cardiac rehabilitation.",
+    "neurology": "Neurology",
+    "neurologyDesc": "Expert diagnosis and treatment of neurological disorders including stroke, epilepsy, and migraines.",
+    "orthopedics": "Orthopedics",
+    "orthopedicsDesc": "Comprehensive bone and joint care from sports injuries to joint replacement surgery.",
+    "pediatrics": "Pediatrics",
+    "pediatricsDesc": "Compassionate care for infants, children, and adolescents including vaccinations and wellness checks.",
+    "ophthalmology": "Ophthalmology",
+    "ophthalmologyDesc": "Complete eye care from routine exams to advanced surgical procedures.",
+    "dental": "Dental Care",
+    "dentalDesc": "Full dental services including preventive care, cosmetic dentistry, and oral surgery."
+  },
+
+  "doctors": {
+    "title": "Meet Our Specialists",
+    "subtitle": "Our team of board-certified physicians brings decades of combined experience across medical disciplines."
+  },
+
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Real stories from real patients who have experienced our care firsthand."
+  },
+
+  "cta": {
+    "title": "Ready to Take Charge of Your Health?",
+    "subtitle": "Schedule an appointment today and experience the MediCare Plus difference.",
+    "button": "Contact Us Now"
+  },
+
+  "about": {
+    "title": "About MediCare Plus",
+    "story": "Our Story",
+    "storyContent": "Founded in 1998, MediCare Plus began as a small community clinic with a vision to make quality healthcare accessible to all. Over the past two decades, we have grown into a comprehensive medical institution serving thousands of patients annually, while never losing sight of our founding principles: compassion, excellence, and innovation.",
+    "storyContent2": "Today, we operate a state-of-the-art facility equipped with the latest medical technology, and our team of over 100 board-certified specialists covers more than 20 medical disciplines. We remain committed to providing patient-centered care that treats not just the illness, but the whole person.",
+    "mission": "Our Mission",
+    "missionStatement": "To provide accessible, high-quality healthcare services with compassion and integrity, empowering individuals and communities to achieve optimal health and well-being.",
+    "vision": "Our Vision",
+    "visionStatement": "To be the most trusted healthcare provider, recognized for clinical excellence, patient safety, and innovative approaches to medicine.",
+    "values": "Our Values",
+    "valuesList": [
+      { "title": "Compassion", "desc": "We treat every patient with empathy, dignity, and respect." },
+      { "title": "Excellence", "desc": "We strive for the highest standards in clinical care and patient outcomes." },
+      { "title": "Innovation", "desc": "We embrace cutting-edge technology and evidence-based practices." },
+      { "title": "Integrity", "desc": "We operate with transparency, honesty, and ethical responsibility." }
+    ],
+    "accreditations": "Accreditations & Certifications",
+    "badges": [
+      "Joint Commission Accredited",
+      "ISO 9001:2015 Certified",
+      "AAAHC Accredited",
+      "Magnet Recognition for Nursing Excellence"
+    ]
+  },
+
+  "blogs": {
+    "title": "Health & Wellness Blog",
+    "subtitle": "Stay informed with the latest health tips, medical insights, and wellness advice from our experts.",
+    "readMore": "Read More",
+    "by": "By",
+    "published": "Published",
+    "categories": {
+      "nutrition": "Nutrition",
+      "cardiology": "Heart Health",
+      "mentalHealth": "Mental Health",
+      "prevention": "Prevention",
+      "pediatrics": "Child Health"
+    }
+  },
+
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help. Contact us for appointments, inquiries, or emergency assistance.",
+    "formTitle": "Send Us a Message",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is this regarding?",
+    "message": "Your Message",
+    "messagePlaceholder": "How can we help you?",
+    "submit": "Send Message",
+    "success": "Thank you! Your message has been sent. We'll get back to you shortly.",
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "emergencyTitle": "Emergency",
+    "emergencyNumber": "Emergency: +1 (555) 911-0000",
+    "emergencyDesc": "If you are experiencing a medical emergency, please call 911 or visit your nearest emergency room immediately.",
+    "location": "Our Location",
+    "address": "123 Health Avenue, Medical District, NY 10001",
+    "hours": "Hours of Operation",
+    "weekdays": "Monday - Friday: 8:00 AM - 8:00 PM",
+    "saturday": "Saturday: 9:00 AM - 5:00 PM",
+    "sunday": "Sunday: Closed",
+    "mapTitle": "Find Us on the Map"
+  },
+
+  "faqs": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our services, insurance, appointments, and more.",
+    "categories": {
+      "insurance": "Insurance & Billing",
+      "appointments": "Appointments",
+      "visiting": "Visiting Hours & Policies",
+      "general": "General"
+    },
+    "items": [
+      {
+        "q": "What insurance plans do you accept?",
+        "a": "We accept most major insurance plans including Medicare, Medicaid, Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare, and many more. Please contact our billing department to verify your specific plan coverage.",
+        "cat": "insurance"
+      },
+      {
+        "q": "Do you offer sliding scale fees or financial assistance?",
+        "a": "Yes, we offer financial assistance programs for eligible patients based on income and family size. Our financial counselors can help you determine eligibility and guide you through the application process.",
+        "cat": "insurance"
+      },
+      {
+        "q": "How do I schedule an appointment?",
+        "a": "You can schedule an appointment by calling our main line at +1 (555) 123-4567, using our online patient portal, or visiting our clinic in person. We recommend scheduling in advance for non-urgent visits.",
+        "cat": "appointments"
+      },
+      {
+        "q": "What should I bring to my appointment?",
+        "a": "Please bring a valid photo ID, your insurance card, a list of current medications, relevant medical records, and any referral forms if required by your insurance plan.",
+        "cat": "appointments"
+      },
+      {
+        "q": "Do you offer telehealth appointments?",
+        "a": "Yes, we offer telehealth appointments for many types of consultations. Our secure video platform allows you to connect with your healthcare provider from the comfort of your home.",
+        "cat": "appointments"
+      },
+      {
+        "q": "What are your visiting hours?",
+        "a": "General visiting hours are from 10:00 AM to 8:00 PM daily. ICU and specialty units may have restricted visiting hours. Please check with the nursing station for unit-specific policies.",
+        "cat": "visiting"
+      },
+      {
+        "q": "Can I accompany a patient to their appointment?",
+        "a": "Yes, patients may be accompanied by one family member or caregiver during appointments. For inpatient visits, we allow up to two visitors at a time. Masks may be required in certain areas.",
+        "cat": "visiting"
+      },
+      {
+        "q": "What COVID-19 safety measures are in place?",
+        "a": "We follow all CDC and local health department guidelines including enhanced cleaning protocols, mandatory masking in clinical areas, social distancing in waiting rooms, and screening at entrances.",
+        "cat": "visiting"
+      },
+      {
+        "q": "How do I request my medical records?",
+        "a": "You can request your medical records through our patient portal, by completing a medical records release form, or by contacting our Health Information Management department. Please allow 5-7 business days for processing.",
+        "cat": "general"
+      },
+      {
+        "q": "Is parking available at your facility?",
+        "a": "Yes, we offer free parking for all patients and visitors in our main parking garage adjacent to the hospital. Valet parking is also available at the main entrance for a nominal fee. Accessible parking spaces are located near all entrances.",
+        "cat": "general"
+      }
+    ]
+  },
+
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "We couldn't find the page you're looking for. It may have been moved or no longer exists.",
+    "cta": "Return Home"
+  },
+
+  "page": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "This privacy policy outlines how MediCare Plus collects, uses, and protects your personal and health information in compliance with HIPAA regulations and applicable data protection laws. We are committed to safeguarding the privacy of our patients and website visitors."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "content": "By using the MediCare Plus website and services, you agree to these terms of service. Our website is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare professional for medical concerns."
+    }
+  },
+
+  "footer": {
+    "tagline": "Delivering compassionate, world-class healthcare with cutting-edge technology and a patient-first approach.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "emergencyNumber": "Emergency",
+    "openHours": "Mon-Fri: 8AM-8PM, Sat: 9AM-5PM",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
