@@ -137,7 +137,7 @@ const switchLocalePath = useSwitchLocalePath()
 const route = useRoute()
 
 const darkStore = useDarkModeStore()
-onMounted(() => darkStore.init())
+onMounted(() => darkStore.initialize())
 
 const mobileMenuOpen = ref(false)
 const localeOpen = ref(false)
