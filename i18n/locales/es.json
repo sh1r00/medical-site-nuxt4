@@ -7,7 +7,6 @@
   "switchToDark": "Cambiar a modo oscuro",
   "closeMenu": "Cerrar menú",
   "openMenu": "Abrir menú",
-
   "nav": {
     "home": "Inicio",
     "about": "Sobre Nosotros",
@@ -15,21 +14,18 @@
     "faqs": "Preguntas Frecuentes",
     "contact": "Contacto"
   },
-
   "hero": {
     "title": "Atención Médica Compasiva para Cada Familia",
     "subtitle": "Atención médica de clase mundial brindada con empatía, experiencia e innovación. Su salud es nuestra misión.",
     "cta": "Reservar Cita",
     "ctaSecondary": "Nuestros Servicios"
   },
-
   "stats": {
     "patients": "Pacientes Satisfechos",
     "doctors": "Médicos Expertos",
     "experience": "Años de Experiencia",
     "awards": "Premios Médicos"
   },
-
   "services": {
     "title": "Nuestros Servicios Médicos",
     "subtitle": "Servicios integrales de atención médica brindados por profesionales experimentados utilizando tecnología de última generación.",
@@ -46,23 +42,19 @@
     "dental": "Cuidado Dental",
     "dentalDesc": "Servicios dentales completos que incluyen atención preventiva, odontología estética y cirugía oral."
   },
-
   "doctors": {
     "title": "Conozca a Nuestros Especialistas",
     "subtitle": "Nuestro equipo de médicos certificados aporta décadas de experiencia combinada en diversas disciplinas médicas."
   },
-
   "testimonials": {
     "title": "Lo Que Dicen Nuestros Pacientes",
     "subtitle": "Historias reales de pacientes reales que han experimentado nuestra atención de primera mano."
   },
-
   "cta": {
     "title": "¿Listo para Cuidar su Salud?",
     "subtitle": "Programe una cita hoy y experimente la diferencia de MediCare Plus.",
     "button": "Contáctenos Ahora"
   },
-
   "about": {
     "title": "Sobre MediCare Plus",
     "story": "Nuestra Historia",
@@ -74,10 +66,22 @@
     "visionStatement": "Ser el proveedor de atención médica más confiable, reconocido por la excelencia clínica, la seguridad del paciente y los enfoques innovadores de la medicina.",
     "values": "Nuestros Valores",
     "valuesList": [
-      { "title": "Compasión", "desc": "Tratamos a cada paciente con empatía, dignidad y respeto." },
-      { "title": "Excelencia", "desc": "Buscamos los más altos estándares en atención clínica y resultados para los pacientes." },
-      { "title": "Innovación", "desc": "Adoptamos tecnología de vanguardia y prácticas basadas en evidencia." },
-      { "title": "Integridad", "desc": "Operamos con transparencia, honestidad y responsabilidad ética." }
+      {
+        "title": "Compasión",
+        "desc": "Tratamos a cada paciente con empatía, dignidad y respeto."
+      },
+      {
+        "title": "Excelencia",
+        "desc": "Buscamos los más altos estándares en atención clínica y resultados para los pacientes."
+      },
+      {
+        "title": "Innovación",
+        "desc": "Adoptamos tecnología de vanguardia y prácticas basadas en evidencia."
+      },
+      {
+        "title": "Integridad",
+        "desc": "Operamos con transparencia, honestidad y responsabilidad ética."
+      }
     ],
     "accreditations": "Acreditaciones y Certificaciones",
     "badges": [
@@ -87,7 +91,6 @@
       "Reconocimiento Magnet para la Excelencia en Enfermería"
     ]
   },
-
   "blogs": {
     "title": "Blog de Salud y Bienestar",
     "subtitle": "Manténgase informado con los últimos consejos de salud, conocimientos médicos y asesoramiento de bienestar de nuestros expertos.",
@@ -102,7 +105,6 @@
       "pediatrics": "Salud Infantil"
     }
   },
-
   "contact": {
     "title": "Póngase en Contacto",
     "subtitle": "Estamos aquí para ayudar. Contáctenos para citas, consultas o asistencia de emergencia.",
@@ -132,7 +134,6 @@
     "sunday": "Domingo: Cerrado",
     "mapTitle": "Encuéntrenos en el Mapa"
   },
-
   "faqs": {
     "title": "Preguntas Frecuentes",
     "subtitle": "Encuentre respuestas a preguntas comunes sobre nuestros servicios, seguros, citas y más.",
@@ -195,13 +196,11 @@
       }
     ]
   },
-
   "notFound": {
     "title": "Página No Encontrada",
     "message": "No pudimos encontrar la página que busca. Es posible que haya sido movida o ya no exista.",
     "cta": "Volver al Inicio"
   },
-
   "page": {
     "privacy": {
       "title": "Política de Privacidad",
@@ -212,7 +211,6 @@
       "content": "Al utilizar el sitio web y los servicios de MediCare Plus, usted acepta estos términos de servicio. Nuestro sitio web es solo para fines informativos y no constituye asesoramiento médico. Siempre consulte con un profesional de la salud calificado para asuntos médicos."
     }
   },
-
   "footer": {
     "tagline": "Brindando atención médica compasiva de clase mundial con tecnología de vanguardia y un enfoque centrado en el paciente.",
     "quickLinks": "Enlaces Rápidos",
@@ -223,5 +221,11 @@
     "rights": "Todos los derechos reservados.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio"
+  },
+  "pwa": {
+    "heading": "Instalar esta aplicación",
+    "description": "Instala esta aplicación para acceder sin conexión y disfrutar de una experiencia más rápida.",
+    "install": "Instalar",
+    "dismiss": "Descartar"
   }
 }

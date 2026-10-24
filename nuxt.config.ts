@@ -14,23 +14,21 @@ export default defineNuxtConfig({
   i18n: {
     strategy: 'prefix',
     defaultLocale: 'en',
+    lazy: true,
+    baseUrl: process.env.NUXT_PUBLIC_SITE_URL || 'http://localhost:3000',
     locales: [
-      { code: 'en', name: 'English', file: 'en.json' },
-      { code: 'es', name: 'Español', file: 'es.json' },
-      { code: 'am', name: 'አማርኛ', file: 'am.json' },
+      { code: 'en', language: 'en', name: 'English', file: 'en.json' },
+      { code: 'es', language: 'es', name: 'Español', file: 'es.json' },
+      { code: 'am', language: 'am', name: 'አማርኛ', file: 'am.json' },
     ],
     langDir: 'locales',
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      redirectOn: 'root',
-    },
+    detectBrowserLanguage: false,
   },
 
   pwa: {
     registerType: 'autoUpdate',
     devOptions: { enabled: false },
-    manifest: { name: 'App', short_name: 'App', theme_color: '#000000', background_color: '#ffffff', display: 'standalone' },
+    manifest: { name: 'MediCare Plus', short_name: 'MediCare Plus', theme_color: '#0ea5e9', background_color: '#ffffff', display: 'standalone' },
     workbox: { globPatterns: ['**/*.{js,css,html,png,svg,ico,woff2,json}'], navigateFallback: '/', cleanupOutdatedCaches: true, skipWaiting: true, clientsClaim: true,
       runtimeCaching: [
         { urlPattern: /\\.json$/, handler: 'StaleWhileRevalidate', options: { cacheName: 'i18n' } },
@@ -44,7 +42,7 @@ export default defineNuxtConfig({
     headers: process.env.NODE_ENV === "development" ? false : {
       contentSecurityPolicy: {
         'default-src': ["'self'"],
-        'script-src': ["'self'", "'unsafe-inline'"],
+        'script-src': ["'self'", "'strict-dynamic'", "'nonce-{{nonce}}'"],
         'style-src': ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
         'font-src': ["'self'", 'https://fonts.gstatic.com', 'https://fonts.googleapis.com'],
         'img-src': ["'self'", 'data:', 'https:'],
@@ -55,14 +53,13 @@ export default defineNuxtConfig({
         'form-action': ["'self'"],
       },
     },
-    rateLimiter: false,
+    rateLimiter: { tokensPerInterval: 30, interval: 60000 },
     xssValidator: process.env.NODE_ENV !== "development",
   },
 
   app: {
     head: {
       title: 'MediCare Plus — Compassionate Healthcare for Every Family',
-      htmlAttrs: { lang: 'en' },
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -93,4 +90,5 @@ export default defineNuxtConfig({
       include: ['@vue/devtools-core', '@vue/devtools-kit', 'pinia'],
     },
   },
+  nitro: { prerender: { failOnError: false } },
 })

@@ -7,7 +7,6 @@
   "switchToDark": "Switch to dark mode",
   "closeMenu": "Close menu",
   "openMenu": "Open menu",
-
   "nav": {
     "home": "Home",
     "about": "About Us",
@@ -15,21 +14,18 @@
     "faqs": "FAQs",
     "contact": "Contact"
   },
-
   "hero": {
     "title": "Compassionate Healthcare for Every Family",
     "subtitle": "World-class medical care delivered with empathy, expertise, and innovation. Your health is our mission.",
     "cta": "Book Appointment",
     "ctaSecondary": "Our Services"
   },
-
   "stats": {
     "patients": "Happy Patients",
     "doctors": "Expert Doctors",
     "experience": "Years Experience",
     "awards": "Medical Awards"
   },
-
   "services": {
     "title": "Our Medical Services",
     "subtitle": "Comprehensive healthcare services delivered by experienced professionals using state-of-the-art technology.",
@@ -46,23 +42,19 @@
     "dental": "Dental Care",
     "dentalDesc": "Full dental services including preventive care, cosmetic dentistry, and oral surgery."
   },
-
   "doctors": {
     "title": "Meet Our Specialists",
     "subtitle": "Our team of board-certified physicians brings decades of combined experience across medical disciplines."
   },
-
   "testimonials": {
     "title": "What Our Patients Say",
     "subtitle": "Real stories from real patients who have experienced our care firsthand."
   },
-
   "cta": {
     "title": "Ready to Take Charge of Your Health?",
     "subtitle": "Schedule an appointment today and experience the MediCare Plus difference.",
     "button": "Contact Us Now"
   },
-
   "about": {
     "title": "About MediCare Plus",
     "story": "Our Story",
@@ -74,10 +66,22 @@
     "visionStatement": "To be the most trusted healthcare provider, recognized for clinical excellence, patient safety, and innovative approaches to medicine.",
     "values": "Our Values",
     "valuesList": [
-      { "title": "Compassion", "desc": "We treat every patient with empathy, dignity, and respect." },
-      { "title": "Excellence", "desc": "We strive for the highest standards in clinical care and patient outcomes." },
-      { "title": "Innovation", "desc": "We embrace cutting-edge technology and evidence-based practices." },
-      { "title": "Integrity", "desc": "We operate with transparency, honesty, and ethical responsibility." }
+      {
+        "title": "Compassion",
+        "desc": "We treat every patient with empathy, dignity, and respect."
+      },
+      {
+        "title": "Excellence",
+        "desc": "We strive for the highest standards in clinical care and patient outcomes."
+      },
+      {
+        "title": "Innovation",
+        "desc": "We embrace cutting-edge technology and evidence-based practices."
+      },
+      {
+        "title": "Integrity",
+        "desc": "We operate with transparency, honesty, and ethical responsibility."
+      }
     ],
     "accreditations": "Accreditations & Certifications",
     "badges": [
@@ -87,7 +91,6 @@
       "Magnet Recognition for Nursing Excellence"
     ]
   },
-
   "blogs": {
     "title": "Health & Wellness Blog",
     "subtitle": "Stay informed with the latest health tips, medical insights, and wellness advice from our experts.",
@@ -102,7 +105,6 @@
       "pediatrics": "Child Health"
     }
   },
-
   "contact": {
     "title": "Get in Touch",
     "subtitle": "We're here to help. Contact us for appointments, inquiries, or emergency assistance.",
@@ -132,7 +134,6 @@
     "sunday": "Sunday: Closed",
     "mapTitle": "Find Us on the Map"
   },
-
   "faqs": {
     "title": "Frequently Asked Questions",
     "subtitle": "Find answers to common questions about our services, insurance, appointments, and more.",
@@ -195,13 +196,11 @@
       }
     ]
   },
-
   "notFound": {
     "title": "Page Not Found",
     "message": "We couldn't find the page you're looking for. It may have been moved or no longer exists.",
     "cta": "Return Home"
   },
-
   "page": {
     "privacy": {
       "title": "Privacy Policy",
@@ -212,7 +211,6 @@
       "content": "By using the MediCare Plus website and services, you agree to these terms of service. Our website is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare professional for medical concerns."
     }
   },
-
   "footer": {
     "tagline": "Delivering compassionate, world-class healthcare with cutting-edge technology and a patient-first approach.",
     "quickLinks": "Quick Links",
@@ -223,5 +221,11 @@
     "rights": "All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service"
+  },
+  "pwa": {
+    "heading": "Install this app",
+    "description": "Install this app for offline access and a faster, app-like experience.",
+    "install": "Install",
+    "dismiss": "Dismiss"
   }
 }
